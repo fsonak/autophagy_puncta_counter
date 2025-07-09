@@ -1,0 +1,36 @@
+#Requires Python 3.10 or higher
+
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scikit-image==0.22.0
+scikit-learn==1.5.0
+matplotlib==3.10.1
+seaborn==0.13.2
+scipy==1.15.2
+
+# Napari ecosystem
+napari==0.4.18
+magicgui==0.7.3
+napari-console==0.0.9
+napari-svg==0.1.10
+napari-plugin-engine==0.2.0
+napari-plugin-manager==0.1.0
+
+# Deep learning / image segmentation
+cellpose==3.1.1.1
+micro-sam==0.1.0
+opencv-python-headless==4.11.0.86
+torch==2.2.2
+torchvision==0.17.2
+plotly==6.0.1
+
+# Utilities
+tqdm==4.66.2
+networkx==3.4.2
+imageio==2.34.0
+PyYAML==6.0.1
+
+# Optional GUI + File IO
+pyqt5==5.15.11
+openpyxl==3.1.2

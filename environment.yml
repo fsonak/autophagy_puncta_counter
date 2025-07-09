@@ -1,0 +1,22 @@
+name: autophagy_gui_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.19
+  - cellpose=2.2.3
+  - napari=0.4.19
+  - pyqt=5.15.9
+  - qtpy
+  - magicgui
+  - superqt
+  - scikit-image=0.22.0
+  - tifffile=2024.5.22
+  - matplotlib=3.8.4
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - pillow=10.3.0
+  - imageio=2.34.1
+  - typing-extensions
+  - pip=24.0
+  - pip:
+      - pydantic==2.7.1
