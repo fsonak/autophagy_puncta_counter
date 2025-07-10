@@ -22,6 +22,7 @@ cd autophagy_puncta_counter
 #Create and activate the environment (recommended)
 
 conda env create -f environment.yml
+
 conda activate autophagy_gui_env
 
 #Run the GUI
