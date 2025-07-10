@@ -16,6 +16,7 @@ This tool combines classical image processing, deep learning (via Cellpose), and
 #Clone the repository
 
 git clone https://github.com/fsonak/autophagy_puncta_counter.git
+
 cd autophagy_puncta_counter
 
 #Create and activate the environment (recommended)
