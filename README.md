@@ -19,7 +19,7 @@ git clone https://github.com/fsonak/autophagy_puncta_counter.git
 
 cd autophagy_puncta_counter
 
-#Create and activate the environment (recommended)
+#Create and activate the environment (recommended) **This environment has been tested on macOS Sonoma (ARM64, M1). For Intel or Windows/Linux, some packages may need to be reinstalled manually (e.g. ffmpeg, qt, imagecodecs).**
 
 conda env create -f environment.yml
 
