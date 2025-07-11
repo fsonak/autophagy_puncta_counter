@@ -34,13 +34,21 @@ python scripts/create_blob_annotatiations_fully_gui.py
 #Folder Structure:
 
 autophagy_puncta_counter/
+
 ├── scripts/                          # Launch scripts
+
 │   └── create_blob_annotatiations_fully_gui.py
+
 ├── pipeline/                         # Image processing pipeline
+
 ├── helper_functions/                # GUI + I/O helpers
+
 ├── assets/                          # Logo etc.
+
 ├── test_files/                      # Example images & outputs
+
 ├── environment.yml                  # Conda environment file
+
 └── README.md
 
 
